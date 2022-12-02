@@ -1,9 +1,15 @@
 # Getting Started with Countries App
+- It has a homepage and a countries page.
+- The countries page display data of countries.
+- When user clicks on the country it will navigate to the details of the country.
 
-This project was created in React22K class in Business College Helsinki.
-Tools used: React, Redux, React-Bootstrap.
+## Technical information about Countries App
+- This project was created in React Advanced class, of React22K intake, in Business College Helsinki.
+- Tools used: React, Redux, React-Bootstrap.
+- Deployed via: [countries-basic-9igpfiuvz-jirimicvl.vercel.app](https://vercel.com/jirimicvl/countries-basic)
 
-## 
+## What do to from here?
+- Further developed into 
 
 ## How to start this Country App
 - In terminal, git clone https://github.com/jirimicvl/countriesBasic.git
