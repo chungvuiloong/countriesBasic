@@ -20,9 +20,10 @@
 - Favourites page => Displays countries saved by users.
 - When user clicks on the country it will navigate individual country page which displays details of the country.
 
-## Technical information about Travel App
+## Tools used in Travel App
 - This project was further developed using the country app template.
-- Tools used: React, Redux, Material-UI.
+- **Tools used:** React, Redux, Material-UI, REST API (<a href="https://restcountries.com/">https://restcountries.com/ </a> and
+        <a href="https://openweathermap.org/">https://openweathermap.org/</a>)
 - Deployed via vercel: https://mrjaytravelapp.netlify.app/countries 
 
 ## How to start this Country App
