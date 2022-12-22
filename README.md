@@ -6,7 +6,7 @@
 ## Technical information about Countries App (Basic)
 - This project was created in React Advanced class, of React22K intake, in Business College Helsinki.
 - Tools used: React, Redux, React-Bootstrap.
-- Deployed via vercel: [https://countries-basic.vercel.app/](https://vercel.com/jirimicvl/countries-basic)
+- Deployed via vercel: https://countries-basic.vercel.app/
 
 ## Advanced features
 - This template has been further developed into "A Travel App". Please check below for further information about "Travel App".
