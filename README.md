@@ -1,4 +1,4 @@
-# Countries App (Basic)\
+# Countries App (Basic)
 - This project was created in React Advanced class, of React22K intake, in Business College Helsinki.
 - It has a homepage and a countries page.
 - The countries page display data of countries.
